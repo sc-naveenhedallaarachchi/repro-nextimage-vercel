@@ -1,4 +1,4 @@
-import React, { JSX } from 'react';
+import { JSX } from 'react';
 import componentMap from '.sitecore/component-map';
 import { AppPlaceholder } from "@sitecore-content-sdk/nextjs";
 import { RowNumber, RowSplitterProps } from './row-splitter.props';
